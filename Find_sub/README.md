@@ -33,11 +33,11 @@ python main.py --domain DOMAIN -m {1,2} [-o OUTPUT_FILE]
 **Extract full URLs:**
 
 ````bash
-python test.py --domain baidu.com -m 1
+python main.py --domain baidu.com -m 1
 
 Extract subdomain prefixes and save to a file:
 
-python test.py --domain baidu.com -m 2 -o output.txt
+python main.py --domain baidu.com -m 2 -o output.txt
 ````
 
 #### Error Handling
