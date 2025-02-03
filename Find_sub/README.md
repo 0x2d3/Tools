@@ -7,7 +7,7 @@
 #### Usage
 
 ````bash
-python test.py --domain DOMAIN -m {1,2} [-o OUTPUT_FILE]
+python main.py --domain DOMAIN -m {1,2} [-o OUTPUT_FILE]
 ````
 
 
