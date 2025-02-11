@@ -19,3 +19,6 @@ The IELTS Helper Application is designed for IELTS learners, providing functiona
 2. **Text Sentence Extraction**
     - Users can load a text file, extract sentences, and select the ones they want to save.
     - Selected sentences can be exported to a new text file.
+
+## Usage
+    - pip install PyQt5==5.15.9
